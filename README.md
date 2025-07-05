@@ -1,5 +1,3 @@
-# char_driver_docker
-
 # Simple Linux Character Device Driver (with Docker Environment)
 
 This repository provides a minimal Linux **character device driver**, along with a **Docker-based build and test environment** that works safely on any Linux host.
